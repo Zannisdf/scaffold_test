@@ -1,24 +1,10 @@
-# README
+# Scaffolding
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Basic RoR CRUD app using scaffolding.
 
-Things you may want to cover:
+Some of the concepts include:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Scaffolding generation
+* Migrations
+* Adding fields to existing scaffold
+* Model validation of input
